@@ -46,7 +46,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![osTicket AD New Folders](https://github.com/user-attachments/assets/10f0da2e-728a-49d0-b4c1-4467c7b098f3)
+![osTicket AD New User](https://github.com/user-attachments/assets/86593772-5638-4663-9b75-7e9327792e41)
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
@@ -54,9 +56,23 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![osTicket AD Join Server](https://github.com/user-attachments/assets/b5894798-61c2-48fd-a5f1-d12a9e883194)
+![osTicket AD Join Server 2](https://github.com/user-attachments/assets/8eabae82-6281-4a5f-9759-6c0a8cc8422d)
+![osTicket AD Welcome Domain](https://github.com/user-attachments/assets/5d098e42-00c6-4050-91c9-e78171f9a931)
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
+  
+![osticket AD Join Server 3](https://github.com/user-attachments/assets/04b0ddf6-fe96-4006-869f-2d610616551d)
+
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
 </p>
 <br />
