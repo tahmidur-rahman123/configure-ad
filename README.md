@@ -37,7 +37,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <p>
   
-![osTicket Server Manager Pic](https://github.com/user-attachments/assets/0cffacf8-d40a-44b0-b9d7-7e1c07ec9404)
+![osTicket Server Manager Pic](https://github.com/user-attachments/assets/c908068e-321f-4168-9e57-d5ac48202b17)
 ![osTicket Active Directory Pic](https://github.com/user-attachments/assets/6493401b-74a2-4e03-bfed-7a85ddfe8d4a)
 </p>
 <p>
