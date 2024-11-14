@@ -36,7 +36,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![osTicket Server Manager Pic](https://github.com/user-attachments/assets/0cffacf8-d40a-44b0-b9d7-7e1c07ec9404)
+![osTicket Active Directory Pic](https://github.com/user-attachments/assets/6493401b-74a2-4e03-bfed-7a85ddfe8d4a)
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
